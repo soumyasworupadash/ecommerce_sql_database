@@ -7,7 +7,7 @@ This project demonstrates a variety of SQL operations performed on the invoice_d
 ## 📌 Basic Data Query
 
 *Description:* Shows the first 200 records from the `invoice_data` table to give an initial look at the dataset's structure and values.
-![Invoice Data Output](basic query.png)
+![Invoice Data Output](basic_query.png)
 
 ---
 
@@ -16,7 +16,7 @@ This project demonstrates a variety of SQL operations performed on the invoice_d
 ### ▶️ Filter by Country
 *Description:* Fetches InvoiceNo and Country for records where the country is United Kingdom.
 
-![All Data Output](whereby uk.png)
+![All Data Output](whereby_uk.png)
 
 ### ▶️ Quantity Filter with Ordering
 *Description:* Retrieves invoices where quantity is greater than 100 and sorts by UnitPrice in descending order.
